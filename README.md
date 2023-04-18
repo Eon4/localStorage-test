@@ -1,0 +1,2 @@
+# localStorage-test
+storage test
